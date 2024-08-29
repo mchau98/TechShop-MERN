@@ -1,1 +1,1 @@
-# Tech-Shop-JS
+# TechShop-MERN
